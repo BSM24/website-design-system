@@ -1,5 +1,5 @@
 section {
-    border: 1px solid black;
+    border: 2px solid darkgray;
     position: relative;
     margin: 0 auto;
     max-width: 1200px;
@@ -10,8 +10,9 @@ h1 {
 
 }
 h3 {
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 700;
+    margin-left: 70px;
 }
 .colorboxes {
     display: inline-block;
